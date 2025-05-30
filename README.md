@@ -15,11 +15,11 @@ Development wise, I've taken **CS50's Introduction to Computer Science** course,
 [![Anurag's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak - Dark](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Joedele#gh-dark-mode-only)
-[![GitHub Streak - Light](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Joedele#gh-light-mode-only)
+[![GitHub Streak - Dark](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
+[![GitHub Streak - Light](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
 
-[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/Joedele#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/Joedele#gh-light-mode-only)
+[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
+[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
 
 ---
 
